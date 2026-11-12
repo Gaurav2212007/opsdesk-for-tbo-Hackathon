@@ -1,4 +1,4 @@
-Quick Launch for Judges: Download or clone this repository and double-click CLICK_TO_OPEN_APP.html to open the live application directly in your browser (no Node.js or installation required).
+Quick Launch for Judges: Download or clone this repository and double-click OpenMe.html to open the live application directly in your browser (no Node.js or installation required).
 
 # OpsDesk for TBO — Context-Aware Operations Platform
 
