@@ -1,0 +1,6 @@
+{
+  "name": "OpsDesk for TBO",
+  "description": "Context-Aware Operations Platform for TBO - Enterprise operations ticketing with relationship linkage, intelligent routing, and travel-aware SLAs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
